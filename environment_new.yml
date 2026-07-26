@@ -1,0 +1,15 @@
+name: ploggo-test
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - python-dotenv
+  - folium
+  - pandas
+  - ipykernel
+  - requests
+  - shapely
+  - scikit-learn
+  - matplotlib
+prefix: C:\Users\User\miniconda3\envs\ploggo-test
